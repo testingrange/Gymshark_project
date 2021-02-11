@@ -79,7 +79,7 @@ class SeleniumCustomDriver():
             print_stack()
         return elements
 
-    def elementPresenseCheck(self, locator, locatorType):
+    def elementPresenseCheck(self, locator, locatorType='id'):
         try:
             elementsList = self.getElements(locator, locatorType)
             if len(elementsList) > 1:
@@ -95,7 +95,7 @@ class SeleniumCustomDriver():
             self.log.error(f"Exception occurred. Element with locator - {locator} and locatorType - {locatorType} doesn't present on the screen.")
             return False
 
-    def isElementDisplayed(self, locator, locatorType):
+    def isElementDisplayed(self, locator, locatorType='id'):
         isDisplayed = False
         try:
             element = self.getElement(locator, locatorType)
@@ -108,7 +108,8 @@ class SeleniumCustomDriver():
             self.log.error(f"Exception occurred. WebElement with locator - {locator} and locatorType - {locatorType} is not displayed.")
             return False
 
-    def waitForElement(self, locator, locatorType, timeout=15, poll=0.5):
+    def waitForElement(self, locator, locatorType='id', timeout=15, poll=0.5):
+        """Module for waiting for an element during a cirtain time - timeout"""
         element = None
         try:
             self.log.info(f"Waiting {timeout} seconds with poll_frequency - {poll} seconds for element with locator - {locator} and locatorType - {locatorType}")
@@ -119,6 +120,28 @@ class SeleniumCustomDriver():
         except:
             self.log.error(f"Exception occurred. Element with locator - {locator} and locatorType - {locatorType} has not appeared on the page")
         return element
+
+    def elementClick(self, locator="", locatorType='id', element=None):
+        try:
+            if locator:
+                element=self.getElement(locator, locatorType)
+            element.click()
+            self.log.info(f"Element {element} has been clicked on")
+        except:
+            self.log.error(f"Exception occurred! Element with locator - {locator} and locatorType - {locatorType} has not been found")
+            print_stack()
+
+    def sendTextToElement(self, text, locator="", locatorType='id', element=None):
+        try:
+            if locator:
+                element=self.getElement(locator, locatorType)
+            element.send_keys(text)
+            self.log.info(f"{text} has been sent to the element - {element}")
+        except:
+            self.log.error(f"Exception occurred! Element with locator - {locator} and locatorType - {locatorType} has not been found")
+            print_stack()
+
+
 
 
 
