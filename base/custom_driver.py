@@ -10,6 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import *
 from traceback import print_stack
 from custom_logger import customLogger as CL
+from selenium.webdriver.support.select import Select
 
 driver = webdriver.Chrome()
 
@@ -141,8 +142,49 @@ class SeleniumCustomDriver():
             self.log.error(f"Exception occurred! Element with locator - {locator} and locatorType - {locatorType} has not been found")
             print_stack()
 
+    def selectFromElement(self, value, valueName, locator="", locatorType="id", element=None):
+        """Select item from selector.
+        Select by index --> valueNum=1,
+                 visible Text --> valueNum=2,
+                 or value --> valueNum=3.
+                 Insert corresponding value and assign corresponding number to valueName.
+                 Input locator and locatorType for selector - element or element."""
+        try:
+            if locator:
+                element=self.getElement(locator, locatorType)
+                sel = Select(element)
+                if valueName == 1:
+                    sel.select_by_index(value)
+                    self.log.info(f"Index value - {value} has been selected from selector element with locator {locator} and locatorType {locatorType}")
+                elif valueName == 2:
+                    sel.select_by_visible_text(value)
+                    self.log.info(
+                        f"Text value - {value} has been selected from selector element with locator {locator} and locatorType {locatorType}")
+                elif valueName == 3:
+                    sel.select_by_value(value)
+                    self.log.info(
+                        f"Value - {value} has been selected from selector element with locator {locator} and locatorType {locatorType}")
+            else:
+                self.log.error(f"Element with locator - {locator} and locatorType - {locatorType} has not been found.")
+        except:
+            self.log.error(f"Exception occurred! Select action cannot be performed with element with locator - {locator} and locatorType - {locatorType}")
 
 
+
+    def getText(self, locator="", locatorType="id"):
+        element = None
+        try:
+            element = self.getElement(locator, locatorType)
+            text = element.text
+            self.log.info(f"Text of the element is {text}")
+            if len(text) == 0:
+                text = element.get_attribute("innerText")
+                self.log.info(f"{text} of the element with locator - {locator} and locatorType - {locatorType}")
+        except:
+            self.log.error(f"Failed to get text on element")
+            print_stack()
+            text = None
+        return text
 
 
 
