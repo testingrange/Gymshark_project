@@ -1,15 +1,15 @@
-countryCode,countryName
-"""ca""","""Canada"""
-"""dk""","""Danmark"""
-"""fi""","""Finland"""
-"""fr""","""France"""
-"""de""","""Deutschland & Österreich"""
-"""nl""","""Nederlands"""
-"""no""","""Norge"""
-"""au""","""Australia and New Zealand"""
-"""se""","""Sverige"""
-"""ch""","""Schweiz"""
-"""gb""","""United Kingdom"""
-"""us""","""United States"""
-"""eu""","""Europe"""
-"""rw""","""Rest of World"""
+countryCode,countryName,confirm
+ca,Canada,Confirm
+dk,Danmark,Confirm
+fi,Finland,Confirm
+fr,France,Confirm
+de,Deutschland & Österreich,Confirmer
+nl,Nederlands,Bestätigen
+no,Norge,Bevestig
+au,Australia and New Zealand,Confirm
+se,Sverige,Confirm
+ch,Schweiz,Confirm
+gb,United Kingdom,Bestätigen
+us,United States,Confirm
+eu,Europe,Confirm
+rw,Rest of World,Confirm

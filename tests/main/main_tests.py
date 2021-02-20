@@ -15,10 +15,12 @@ class MainPageTests(unittest.TestCase):
         self.mp = MP(self.driver)
         self.ts = TS(self.driver)
 
+    def closeCookieWindow(self):
+        self.mp.closeCookiesWindow()
 
     @data(*getCSVData("C:\\Users\\S4etovodov\\PycharmProjects\\preparationForWork\\Gymshark_project\\tests\\main\\countrySelectorData.csv"))
     @unpack
-    def testSelector(self, countryCode, countryName):
-        self.mp.selectCountryFromSelector(countryCode)
+    def testSelector(self, countryCode, countryName, confirm):
+        self.mp.selectCountryFromList(countryCode, confirm)
         result = self.mp.verifySelectorOption(countryName)
         self.ts.markFinal("Test country selector", result, countryName)

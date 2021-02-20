@@ -1,5 +1,5 @@
 from Gymshark_project.base.custom_driver import SeleniumCustomDriver as SD
-from utilities.custom_logger import customLogger as CL
+from Gymshark_project.utilities.custom_logger import customLogger as CL
 import logging
 from traceback import print_stack
 

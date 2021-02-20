@@ -1,5 +1,3 @@
-from selenium import webdriver
-
 import logging
 import os
 import time
@@ -9,10 +7,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import *
 from traceback import print_stack
-from custom_logger import customLogger as CL
+from Gymshark_project.utilities.custom_logger import customLogger as CL
 from selenium.webdriver.support.select import Select
-
-driver = webdriver.Chrome()
 
 class SeleniumCustomDriver():
 
@@ -23,7 +19,7 @@ class SeleniumCustomDriver():
 
     def screeenshot(self, resultMessage):
         timestamp = str(time.strftime("%m%d%Y_%H%M%S"))
-        screenshotName = f"{timestamp}_{resultMessage}"
+        screenshotName = f"{timestamp}_{resultMessage}.png"
         locationName = os.getcwd()+"/screenshots/"
         screenshotLocation = locationName + screenshotName
         try:
@@ -65,7 +61,7 @@ class SeleniumCustomDriver():
             else:
                 self.log.info(f"Element {element} was provided")
         except:
-            self.log.error(f"Either element or locator/locatorType were not correctly provided")
+            self.log.error(f"Either element or locator - {locator}/locatorType - {locatorType} were not correctly provided")
             print_stack()
         return element
 
@@ -127,7 +123,7 @@ class SeleniumCustomDriver():
             if locator:
                 element=self.getElement(locator, locatorType)
             element.click()
-            self.log.info(f"Element {element} has been clicked on")
+            self.log.info("Element has been clicked on")
         except:
             self.log.error(f"Exception occurred! Element with locator - {locator} and locatorType - {locatorType} has not been found")
             print_stack()

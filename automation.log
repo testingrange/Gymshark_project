@@ -1,0 +1,582 @@
+02/19/2021 16:34:40- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:34:40- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:34:40- MainPage- INFO- Element has been clicked on
+02/19/2021 16:34:43- MainPage- ERROR- Either element or locator - //select[@name='country']/locatorType - xpath were not correctly provided
+02/19/2021 16:34:44- MainPage- ERROR- Exception occurred. WebElement with locator - //select[@name='country'] and locatorType - xpath is not displayed.
+02/19/2021 16:34:44- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //select[@name='country'] and locatorType - xpath
+02/19/2021 16:35:01- MainPage- ERROR- Exception occurred. Element with locator - //select[@name='country'] and locatorType - xpath has not appeared on the page
+02/19/2021 16:35:04- MainPage- ERROR- Either element or locator - //select[@name='country']/locatorType - xpath were not correctly provided
+02/19/2021 16:35:04- MainPage- ERROR- Exception occurred! Select action cannot be performed with element with locator - //select[@name='country'] and locatorType - xpath
+02/19/2021 16:35:08- MainPage- ERROR- Either element or locator - //button[contains(.,'Confirm')]/locatorType - xpath were not correctly provided
+02/19/2021 16:35:08- MainPage- ERROR- Exception occurred! Element with locator - //button[contains(.,'Confirm')] and locatorType - xpath has not been found
+02/19/2021 16:35:08- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:08- MainPage- INFO- Text of the element is United States
+02/19/2021 16:35:08- TestStatus- ERROR- Verification failedCanada
+02/19/2021 16:35:09- TestStatus- INFO- Screenshot 02192021_163508_Canada.png was saved to screenshot location - C:\Users\S4etovodov\PycharmProjects\preparationForWork\Gymshark_project/screenshots/
+02/19/2021 16:35:09- TestStatus- ERROR- Test country selector ### TEST FAILED
+02/19/2021 16:35:09- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:35:09- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:35:09- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:09- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:09- MainPage- ERROR- WebElement with locator - //select[@name='country'] and locatorType - xpath is not displayed.
+02/19/2021 16:35:09- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //select[@name='country'] and locatorType - xpath
+02/19/2021 16:35:09- MainPage- INFO- Element with locator - //select[@name='country'] and locatorType - xpath has appeared on the page
+02/19/2021 16:35:09- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:09- MainPage- INFO- Value - dk has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:35:09- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:11- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:11- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:11- MainPage- INFO- Text of the element is Danmark
+02/19/2021 16:35:11- TestStatus- INFO- Verification successfullyDanmark
+02/19/2021 16:35:11- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:35:11- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:35:11- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:35:11- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:12- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:12- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:35:12- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:12- MainPage- INFO- Value - fi has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:35:12- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:14- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:14- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:14- MainPage- INFO- Text of the element is Finland
+02/19/2021 16:35:14- TestStatus- INFO- Verification successfullyFinland
+02/19/2021 16:35:14- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:35:14- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:35:14- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:35:14- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:14- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:14- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:35:14- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:15- MainPage- INFO- Value - fr has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:35:15- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:17- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:17- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:17- MainPage- INFO- Text of the element is France
+02/19/2021 16:35:17- TestStatus- INFO- Verification successfullyFrance
+02/19/2021 16:35:17- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:35:17- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:35:17- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:35:17- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:17- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:17- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:35:17- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:17- MainPage- INFO- Value - de has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:35:17- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirmer')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:19- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:19- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:19- MainPage- INFO- Text of the element is Deutschland & ÖSterreich
+02/19/2021 16:35:19- TestStatus- ERROR- Verification failedDeutschland & Österreich
+02/19/2021 16:35:20- TestStatus- INFO- Screenshot 02192021_163519_Deutschland & Österreich.png was saved to screenshot location - C:\Users\S4etovodov\PycharmProjects\preparationForWork\Gymshark_project/screenshots/
+02/19/2021 16:35:20- TestStatus- ERROR- Test country selector ### TEST FAILED
+02/19/2021 16:35:20- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:35:20- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:35:21- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:21- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:21- MainPage- ERROR- WebElement with locator - //select[@name='country'] and locatorType - xpath is not displayed.
+02/19/2021 16:35:21- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:21- MainPage- INFO- Value - nl has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:35:21- MainPage- INFO- WebElement with locator - //button[contains(.,'Bestätigen')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:23- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:24- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:24- MainPage- INFO- Text of the element is Nederlands
+02/19/2021 16:35:24- TestStatus- INFO- Verification successfullyNederlands
+02/19/2021 16:35:24- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:35:24- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:35:24- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:35:24- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:24- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:24- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:35:24- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:24- MainPage- INFO- Value - no has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:35:24- MainPage- INFO- WebElement with locator - //button[contains(.,'Bevestig')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:26- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:26- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:26- MainPage- INFO- Text of the element is Norge
+02/19/2021 16:35:26- TestStatus- INFO- Verification successfullyNorge
+02/19/2021 16:35:26- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:35:26- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:35:26- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:35:27- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:27- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:27- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:35:27- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:27- MainPage- INFO- Value - au has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:35:27- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:29- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:29- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:29- MainPage- INFO- Text of the element is Australia And New Zealand
+02/19/2021 16:35:29- TestStatus- ERROR- Verification failedAustralia and New Zealand
+02/19/2021 16:35:30- TestStatus- INFO- Screenshot 02192021_163529_Australia and New Zealand.png was saved to screenshot location - C:\Users\S4etovodov\PycharmProjects\preparationForWork\Gymshark_project/screenshots/
+02/19/2021 16:35:30- TestStatus- ERROR- Test country selector ### TEST FAILED
+02/19/2021 16:35:30- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:35:30- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:35:30- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:30- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:31- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:35:31- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:31- MainPage- INFO- Value - se has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:35:31- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:33- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:33- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:33- MainPage- INFO- Text of the element is Sverige
+02/19/2021 16:35:33- TestStatus- INFO- Verification successfullySverige
+02/19/2021 16:35:33- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:35:33- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:35:33- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:35:34- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:34- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:34- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:35:34- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:34- MainPage- INFO- Value - ch has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:35:34- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:41- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:41- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:41- MainPage- INFO- Text of the element is Schweiz
+02/19/2021 16:35:41- TestStatus- INFO- Verification successfullySchweiz
+02/19/2021 16:35:41- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:35:41- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:35:41- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:35:41- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:41- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:41- MainPage- ERROR- WebElement with locator - //select[@name='country'] and locatorType - xpath is not displayed.
+02/19/2021 16:35:41- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:41- MainPage- INFO- Value - gb has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:35:41- MainPage- INFO- WebElement with locator - //button[contains(.,'Bestätigen')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:35:42- MainPage- INFO- Element has been clicked on
+02/19/2021 16:35:45- MainPage- ERROR- Either element or locator - //div[@id='app-header']/div[2]/div/div/div[5]/locatorType - xpath were not correctly provided
+02/19/2021 16:35:45- MainPage- ERROR- Failed to get text on element
+02/19/2021 16:35:45- TestStatus- ERROR- Verification failedUnited Kingdom
+02/19/2021 16:35:46- TestStatus- INFO- Screenshot 02192021_163545_United Kingdom.png was saved to screenshot location - C:\Users\S4etovodov\PycharmProjects\preparationForWork\Gymshark_project/screenshots/
+02/19/2021 16:35:46- TestStatus- ERROR- Test country selector ### TEST FAILED
+02/19/2021 16:35:46- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:36:04- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:36:05- MainPage- INFO- Element has been clicked on
+02/19/2021 16:36:05- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:36:05- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:36:05- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:36:05- MainPage- INFO- Value - us has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:36:05- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:36:07- MainPage- INFO- Element has been clicked on
+02/19/2021 16:36:07- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:36:07- MainPage- INFO- Text of the element is United States
+02/19/2021 16:36:07- TestStatus- INFO- Verification successfullyUnited States
+02/19/2021 16:36:07- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:36:07- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:36:07- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:36:07- MainPage- INFO- Element has been clicked on
+02/19/2021 16:36:07- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:36:07- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:36:07- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:36:07- MainPage- INFO- Value - eu has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:36:07- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:36:11- MainPage- INFO- Element has been clicked on
+02/19/2021 16:36:11- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:36:11- MainPage- INFO- Text of the element is Europe
+02/19/2021 16:36:11- TestStatus- INFO- Verification successfullyEurope
+02/19/2021 16:36:11- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:36:12- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:36:12- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:36:12- MainPage- INFO- Element has been clicked on
+02/19/2021 16:36:12- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:36:12- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:36:12- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:36:12- MainPage- INFO- Value - rw has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:36:12- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:36:17- MainPage- INFO- Element has been clicked on
+02/19/2021 16:36:17- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:36:17- MainPage- INFO- Text of the element is Rest Of World
+02/19/2021 16:36:17- TestStatus- ERROR- Verification failedRest of World
+02/19/2021 16:36:18- TestStatus- INFO- Screenshot 02192021_163617_Rest of World.png was saved to screenshot location - C:\Users\S4etovodov\PycharmProjects\preparationForWork\Gymshark_project/screenshots/
+02/19/2021 16:36:18- TestStatus- ERROR- Test country selector ### TEST FAILED
+02/19/2021 16:38:32- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:38:32- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:38:32- MainPage- INFO- Element has been clicked on
+02/19/2021 16:38:35- MainPage- ERROR- Either element or locator - //select[@name='country']/locatorType - xpath were not correctly provided
+02/19/2021 16:38:35- MainPage- ERROR- Exception occurred. WebElement with locator - //select[@name='country'] and locatorType - xpath is not displayed.
+02/19/2021 16:38:35- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //select[@name='country'] and locatorType - xpath
+02/19/2021 16:41:23- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:41:23- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:41:24- MainPage- INFO- Element has been clicked on
+02/19/2021 16:41:27- MainPage- ERROR- Either element or locator - //select[@name='country']/locatorType - xpath were not correctly provided
+02/19/2021 16:41:27- MainPage- ERROR- Exception occurred. WebElement with locator - //select[@name='country'] and locatorType - xpath is not displayed.
+02/19/2021 16:41:27- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //select[@name='country'] and locatorType - xpath
+02/19/2021 16:41:44- MainPage- ERROR- Exception occurred. Element with locator - //select[@name='country'] and locatorType - xpath has not appeared on the page
+02/19/2021 16:41:48- MainPage- ERROR- Either element or locator - //select[@name='country']/locatorType - xpath were not correctly provided
+02/19/2021 16:41:48- MainPage- ERROR- Exception occurred! Select action cannot be performed with element with locator - //select[@name='country'] and locatorType - xpath
+02/19/2021 16:41:51- MainPage- ERROR- Either element or locator - //button[contains(.,'Confirm')]/locatorType - xpath were not correctly provided
+02/19/2021 16:41:51- MainPage- ERROR- Exception occurred! Element with locator - //button[contains(.,'Confirm')] and locatorType - xpath has not been found
+02/19/2021 16:41:51- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:41:51- MainPage- INFO- Text of the element is United States
+02/19/2021 16:41:51- TestStatus- ERROR- Verification failedCanada
+02/19/2021 16:41:52- TestStatus- INFO- Screenshot 02192021_164151_Canada.png was saved to screenshot location - C:\Users\S4etovodov\PycharmProjects\preparationForWork\Gymshark_project/screenshots/
+02/19/2021 16:41:52- TestStatus- ERROR- Test country selector ### TEST FAILED
+02/19/2021 16:41:52- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:41:52- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:41:52- MainPage- INFO- Element has been clicked on
+02/19/2021 16:41:52- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:41:52- MainPage- ERROR- WebElement with locator - //select[@name='country'] and locatorType - xpath is not displayed.
+02/19/2021 16:41:52- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:41:52- MainPage- INFO- Value - dk has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:41:52- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:41:55- MainPage- INFO- Element has been clicked on
+02/19/2021 16:41:55- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:41:56- MainPage- INFO- Text of the element is Danmark
+02/19/2021 16:41:56- TestStatus- INFO- Verification successfullyDanmark
+02/19/2021 16:41:56- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:41:56- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:41:56- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:41:56- MainPage- INFO- Element has been clicked on
+02/19/2021 16:41:56- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:41:56- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:41:56- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:41:56- MainPage- INFO- Value - fi has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:41:56- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:41:58- MainPage- INFO- Element has been clicked on
+02/19/2021 16:41:58- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:41:58- MainPage- INFO- Text of the element is Finland
+02/19/2021 16:41:58- TestStatus- INFO- Verification successfullyFinland
+02/19/2021 16:41:58- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:41:58- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:41:58- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:41:58- MainPage- INFO- Element has been clicked on
+02/19/2021 16:41:58- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:41:58- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:41:58- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:41:58- MainPage- INFO- Value - fr has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:41:58- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:01- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:01- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:01- MainPage- INFO- Text of the element is France
+02/19/2021 16:42:01- TestStatus- INFO- Verification successfullyFrance
+02/19/2021 16:42:01- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:42:01- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:42:01- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:42:01- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:01- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:01- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:42:01- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:02- MainPage- INFO- Value - de has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:42:02- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirmer')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:05- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:05- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:05- MainPage- INFO- Text of the element is Deutschland & ÖSterreich
+02/19/2021 16:42:05- TestStatus- ERROR- Verification failedDeutschland & Österreich
+02/19/2021 16:42:06- TestStatus- INFO- Screenshot 02192021_164205_Deutschland & Österreich.png was saved to screenshot location - C:\Users\S4etovodov\PycharmProjects\preparationForWork\Gymshark_project/screenshots/
+02/19/2021 16:42:06- TestStatus- ERROR- Test country selector ### TEST FAILED
+02/19/2021 16:42:06- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:42:06- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:42:06- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:06- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:06- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:42:06- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:06- MainPage- INFO- Value - nl has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:42:06- MainPage- INFO- WebElement with locator - //button[contains(.,'Bestätigen')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:08- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:08- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:09- MainPage- INFO- Text of the element is Nederlands
+02/19/2021 16:42:09- TestStatus- INFO- Verification successfullyNederlands
+02/19/2021 16:42:09- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:42:09- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:42:09- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:42:09- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:09- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:09- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:42:09- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:09- MainPage- INFO- Value - no has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:42:09- MainPage- INFO- WebElement with locator - //button[contains(.,'Bevestig')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:11- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:11- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:11- MainPage- INFO- Text of the element is Norge
+02/19/2021 16:42:11- TestStatus- INFO- Verification successfullyNorge
+02/19/2021 16:42:11- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:42:11- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:42:11- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:42:12- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:12- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:12- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:42:12- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:12- MainPage- INFO- Value - au has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:42:12- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:15- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:15- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:15- MainPage- INFO- Text of the element is Australia And New Zealand
+02/19/2021 16:42:15- TestStatus- ERROR- Verification failedAustralia and New Zealand
+02/19/2021 16:42:16- TestStatus- INFO- Screenshot 02192021_164215_Australia and New Zealand.png was saved to screenshot location - C:\Users\S4etovodov\PycharmProjects\preparationForWork\Gymshark_project/screenshots/
+02/19/2021 16:42:16- TestStatus- ERROR- Test country selector ### TEST FAILED
+02/19/2021 16:42:16- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:42:16- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:42:16- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:16- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:16- MainPage- ERROR- WebElement with locator - //select[@name='country'] and locatorType - xpath is not displayed.
+02/19/2021 16:42:16- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:16- MainPage- INFO- Value - se has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:42:16- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:23- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:23- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:23- MainPage- INFO- Text of the element is Sverige
+02/19/2021 16:42:23- TestStatus- INFO- Verification successfullySverige
+02/19/2021 16:42:23- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:42:23- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:42:23- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:42:23- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:23- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:24- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:42:24- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:24- MainPage- INFO- Value - ch has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:42:24- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:26- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:26- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:26- MainPage- INFO- Text of the element is Schweiz
+02/19/2021 16:42:26- TestStatus- INFO- Verification successfullySchweiz
+02/19/2021 16:42:26- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:42:26- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:42:26- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:42:26- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:26- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:26- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:42:26- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:26- MainPage- INFO- Value - gb has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:42:26- MainPage- INFO- WebElement with locator - //button[contains(.,'Bestätigen')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:29- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:29- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:29- MainPage- INFO- Text of the element is United Kingdom
+02/19/2021 16:42:29- TestStatus- INFO- Verification successfullyUnited Kingdom
+02/19/2021 16:42:29- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:42:29- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:42:29- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:42:30- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:30- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:30- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:42:30- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:30- MainPage- INFO- Value - us has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:42:30- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:32- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:32- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:33- MainPage- INFO- Text of the element is United States
+02/19/2021 16:42:33- TestStatus- INFO- Verification successfullyUnited States
+02/19/2021 16:42:33- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:42:33- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:42:33- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:42:33- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:33- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:33- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:42:33- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:33- MainPage- INFO- Value - eu has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:42:33- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:36- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:36- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:36- MainPage- INFO- Text of the element is Europe
+02/19/2021 16:42:36- TestStatus- INFO- Verification successfullyEurope
+02/19/2021 16:42:36- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:42:36- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:42:36- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:42:36- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:36- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:36- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:42:36- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:36- MainPage- INFO- Value - rw has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:42:36- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:39- MainPage- INFO- Element has been clicked on
+02/19/2021 16:42:39- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:42:39- MainPage- INFO- Text of the element is Rest Of World
+02/19/2021 16:42:39- TestStatus- ERROR- Verification failedRest of World
+02/19/2021 16:42:40- TestStatus- INFO- Screenshot 02192021_164239_Rest of World.png was saved to screenshot location - C:\Users\S4etovodov\PycharmProjects\preparationForWork\Gymshark_project/screenshots/
+02/19/2021 16:42:40- TestStatus- ERROR- Test country selector ### TEST FAILED
+02/19/2021 16:57:14- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='onetrust-close-btn-container']/button[@aria-label='Close'] and locatorType - xpath
+02/19/2021 16:57:14- MainPage- INFO- Element with locator - //div[@id='onetrust-close-btn-container']/button[@aria-label='Close'] and locatorType - xpath has appeared on the page
+02/19/2021 16:57:14- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:14- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:57:14- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:57:14- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:14- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:14- MainPage- ERROR- WebElement with locator - //select[@name='country'] and locatorType - xpath is not displayed.
+02/19/2021 16:57:14- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:14- MainPage- INFO- Value - ca has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:57:14- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:22- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:22- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:22- MainPage- INFO- Text of the element is Canada
+02/19/2021 16:57:22- TestStatus- INFO- Verification successfullyCanada
+02/19/2021 16:57:22- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:57:22- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:57:22- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:57:22- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:22- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:22- MainPage- ERROR- WebElement with locator - //select[@name='country'] and locatorType - xpath is not displayed.
+02/19/2021 16:57:22- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:23- MainPage- INFO- Value - dk has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:57:23- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:29- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:29- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:29- MainPage- INFO- Text of the element is Danmark
+02/19/2021 16:57:29- TestStatus- INFO- Verification successfullyDanmark
+02/19/2021 16:57:29- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:57:29- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:57:29- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:57:29- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:29- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:29- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:57:29- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:29- MainPage- INFO- Value - fi has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:57:29- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:33- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:33- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:33- MainPage- INFO- Text of the element is Finland
+02/19/2021 16:57:33- TestStatus- INFO- Verification successfullyFinland
+02/19/2021 16:57:33- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:57:33- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:57:33- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:57:33- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:33- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:33- MainPage- ERROR- WebElement with locator - //select[@name='country'] and locatorType - xpath is not displayed.
+02/19/2021 16:57:33- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:33- MainPage- INFO- Value - fr has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:57:33- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:36- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:36- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:36- MainPage- INFO- Text of the element is France
+02/19/2021 16:57:36- TestStatus- INFO- Verification successfullyFrance
+02/19/2021 16:57:36- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:57:36- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:57:36- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:57:36- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:36- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:36- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:57:36- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:36- MainPage- INFO- Value - de has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:57:36- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirmer')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:40- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:40- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:40- MainPage- INFO- Text of the element is Deutschland & ÖSterreich
+02/19/2021 16:57:40- TestStatus- ERROR- Verification failedDeutschland & Österreich
+02/19/2021 16:57:41- TestStatus- INFO- Screenshot 02192021_165740_Deutschland & Österreich.png was saved to screenshot location - C:\Users\S4etovodov\PycharmProjects\preparationForWork\Gymshark_project/screenshots/
+02/19/2021 16:57:41- TestStatus- ERROR- Test country selector ### TEST FAILED
+02/19/2021 16:57:41- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:57:41- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:57:41- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:41- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:41- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:57:42- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:42- MainPage- INFO- Value - nl has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:57:42- MainPage- INFO- WebElement with locator - //button[contains(.,'Bestätigen')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:44- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:44- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:44- MainPage- INFO- Text of the element is Nederlands
+02/19/2021 16:57:44- TestStatus- INFO- Verification successfullyNederlands
+02/19/2021 16:57:44- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:57:44- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:57:44- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:57:44- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:44- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:44- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:57:44- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:44- MainPage- INFO- Value - no has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:57:44- MainPage- INFO- WebElement with locator - //button[contains(.,'Bevestig')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:48- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:48- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:48- MainPage- INFO- Text of the element is Norge
+02/19/2021 16:57:48- TestStatus- INFO- Verification successfullyNorge
+02/19/2021 16:57:48- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:57:48- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:57:48- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:57:48- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:48- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:48- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:57:48- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:48- MainPage- INFO- Value - au has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:57:48- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:51- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:51- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:51- MainPage- INFO- Text of the element is Australia And New Zealand
+02/19/2021 16:57:51- TestStatus- ERROR- Verification failedAustralia and New Zealand
+02/19/2021 16:57:52- TestStatus- INFO- Screenshot 02192021_165751_Australia and New Zealand.png was saved to screenshot location - C:\Users\S4etovodov\PycharmProjects\preparationForWork\Gymshark_project/screenshots/
+02/19/2021 16:57:52- TestStatus- ERROR- Test country selector ### TEST FAILED
+02/19/2021 16:57:52- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:57:52- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:57:52- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:52- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:52- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:57:52- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:52- MainPage- INFO- Value - se has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:57:52- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:55- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:55- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:55- MainPage- INFO- Text of the element is Sverige
+02/19/2021 16:57:55- TestStatus- INFO- Verification successfullySverige
+02/19/2021 16:57:55- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:57:55- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:57:55- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:57:55- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:55- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:55- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:57:55- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:55- MainPage- INFO- Value - ch has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:57:55- MainPage- INFO- WebElement with locator - //button[contains(.,'Confirm')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:59- MainPage- INFO- Element has been clicked on
+02/19/2021 16:57:59- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 16:57:59- MainPage- INFO- Text of the element is Schweiz
+02/19/2021 16:57:59- TestStatus- INFO- Verification successfullySchweiz
+02/19/2021 16:57:59- TestStatus- INFO- Test country selector ### TEST SUCCESSFUL
+02/19/2021 16:57:59- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:57:59- MainPage- INFO- Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has appeared on the page
+02/19/2021 16:57:59- MainPage- INFO- Element has been clicked on
+02/19/2021 16:58:00- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:58:00- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath is displayed.
+02/19/2021 16:58:00- MainPage- INFO- WebElement with locator - //select[@name='country'] and locatorType - xpath has been successfuly found.
+02/19/2021 16:58:00- MainPage- INFO- Value - gb has been selected from selector element with locator //select[@name='country'] and locatorType xpath
+02/19/2021 16:58:00- MainPage- INFO- WebElement with locator - //button[contains(.,'Bestätigen')] and locatorType - xpath has been successfuly found.
+02/19/2021 16:58:00- MainPage- INFO- Element has been clicked on
+02/19/2021 16:58:03- MainPage- ERROR- Either element or locator - //div[@id='app-header']/div[2]/div/div/div[5]/locatorType - xpath were not correctly provided
+02/19/2021 16:58:04- MainPage- ERROR- Failed to get text on element
+02/19/2021 16:58:04- TestStatus- ERROR- Verification failedUnited Kingdom
+02/19/2021 16:58:04- TestStatus- INFO- Screenshot 02192021_165804_United Kingdom.png was saved to screenshot location - C:\Users\S4etovodov\PycharmProjects\preparationForWork\Gymshark_project/screenshots/
+02/19/2021 16:58:04- TestStatus- ERROR- Test country selector ### TEST FAILED
+02/19/2021 16:58:04- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:58:21- MainPage- ERROR- Exception occurred. Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has not appeared on the page
+02/19/2021 16:58:21- MainPage- ERROR- Exception occurred! Element with locator -  and locatorType - id has not been found
+02/19/2021 16:58:25- MainPage- ERROR- Either element or locator - //select[@name='country']/locatorType - xpath were not correctly provided
+02/19/2021 16:58:25- MainPage- ERROR- Exception occurred. WebElement with locator - //select[@name='country'] and locatorType - xpath is not displayed.
+02/19/2021 16:58:25- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //select[@name='country'] and locatorType - xpath
+02/19/2021 16:58:42- MainPage- ERROR- Exception occurred. Element with locator - //select[@name='country'] and locatorType - xpath has not appeared on the page
+02/19/2021 16:58:45- MainPage- ERROR- Either element or locator - //select[@name='country']/locatorType - xpath were not correctly provided
+02/19/2021 16:58:45- MainPage- ERROR- Exception occurred! Select action cannot be performed with element with locator - //select[@name='country'] and locatorType - xpath
+02/19/2021 16:58:48- MainPage- ERROR- Either element or locator - //button[contains(.,'Confirm')]/locatorType - xpath were not correctly provided
+02/19/2021 16:58:48- MainPage- ERROR- Exception occurred! Element with locator - //button[contains(.,'Confirm')] and locatorType - xpath has not been found
+02/19/2021 16:58:52- MainPage- ERROR- Either element or locator - //div[@id='app-header']/div[2]/div/div/div[5]/locatorType - xpath were not correctly provided
+02/19/2021 16:58:52- MainPage- ERROR- Failed to get text on element
+02/19/2021 16:58:52- TestStatus- ERROR- Verification failedUnited States
+02/19/2021 16:58:52- TestStatus- INFO- Screenshot 02192021_165852_United States.png was saved to screenshot location - C:\Users\S4etovodov\PycharmProjects\preparationForWork\Gymshark_project/screenshots/
+02/19/2021 16:58:52- TestStatus- ERROR- Test country selector ### TEST FAILED
+02/19/2021 16:58:52- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 16:59:10- MainPage- ERROR- Exception occurred. Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has not appeared on the page
+02/19/2021 16:59:10- MainPage- ERROR- Exception occurred! Element with locator -  and locatorType - id has not been found
+02/19/2021 16:59:13- MainPage- ERROR- Either element or locator - //select[@name='country']/locatorType - xpath were not correctly provided
+02/19/2021 16:59:13- MainPage- ERROR- Exception occurred. WebElement with locator - //select[@name='country'] and locatorType - xpath is not displayed.
+02/19/2021 16:59:13- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //select[@name='country'] and locatorType - xpath
+02/19/2021 16:59:31- MainPage- ERROR- Exception occurred. Element with locator - //select[@name='country'] and locatorType - xpath has not appeared on the page
+02/19/2021 16:59:34- MainPage- ERROR- Either element or locator - //select[@name='country']/locatorType - xpath were not correctly provided
+02/19/2021 16:59:35- MainPage- ERROR- Exception occurred! Select action cannot be performed with element with locator - //select[@name='country'] and locatorType - xpath
+02/19/2021 16:59:38- MainPage- ERROR- Either element or locator - //button[contains(.,'Confirm')]/locatorType - xpath were not correctly provided
+02/19/2021 16:59:38- MainPage- ERROR- Exception occurred! Element with locator - //button[contains(.,'Confirm')] and locatorType - xpath has not been found
+02/19/2021 16:59:42- MainPage- ERROR- Either element or locator - //div[@id='app-header']/div[2]/div/div/div[5]/locatorType - xpath were not correctly provided
+02/19/2021 16:59:42- MainPage- ERROR- Failed to get text on element
+02/19/2021 16:59:42- TestStatus- ERROR- Verification failedEurope
+02/19/2021 16:59:42- TestStatus- INFO- Screenshot 02192021_165942_Europe.png was saved to screenshot location - C:\Users\S4etovodov\PycharmProjects\preparationForWork\Gymshark_project/screenshots/
+02/19/2021 16:59:42- TestStatus- ERROR- Test country selector ### TEST FAILED
+02/19/2021 16:59:42- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath
+02/19/2021 17:00:00- MainPage- ERROR- Exception occurred. Element with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has not appeared on the page
+02/19/2021 17:00:00- MainPage- ERROR- Exception occurred! Element with locator -  and locatorType - id has not been found
+02/19/2021 17:00:04- MainPage- ERROR- Either element or locator - //select[@name='country']/locatorType - xpath were not correctly provided
+02/19/2021 17:00:04- MainPage- ERROR- Exception occurred. WebElement with locator - //select[@name='country'] and locatorType - xpath is not displayed.
+02/19/2021 17:00:04- MainPage- INFO- Waiting 15 seconds with poll_frequency - 0.5 seconds for element with locator - //select[@name='country'] and locatorType - xpath
+02/19/2021 17:01:09- MainPage- ERROR- Exception occurred. Element with locator - //select[@name='country'] and locatorType - xpath has not appeared on the page
+02/19/2021 17:01:12- MainPage- ERROR- Either element or locator - //select[@name='country']/locatorType - xpath were not correctly provided
+02/19/2021 17:01:13- MainPage- ERROR- Exception occurred! Select action cannot be performed with element with locator - //select[@name='country'] and locatorType - xpath
+02/19/2021 17:01:16- MainPage- ERROR- Either element or locator - //button[contains(.,'Confirm')]/locatorType - xpath were not correctly provided
+02/19/2021 17:01:16- MainPage- ERROR- Exception occurred! Element with locator - //button[contains(.,'Confirm')] and locatorType - xpath has not been found
+02/19/2021 17:01:18- MainPage- INFO- WebElement with locator - //div[@id='app-header']/div[2]/div/div/div[5] and locatorType - xpath has been successfuly found.
+02/19/2021 17:01:18- MainPage- INFO- Text of the element is United Kingdom
+02/19/2021 17:01:18- TestStatus- ERROR- Verification failedRest of World
+02/19/2021 17:01:19- TestStatus- INFO- Screenshot 02192021_170118_Rest of World.png was saved to screenshot location - C:\Users\S4etovodov\PycharmProjects\preparationForWork\Gymshark_project/screenshots/
+02/19/2021 17:01:19- TestStatus- ERROR- Test country selector ### TEST FAILED
